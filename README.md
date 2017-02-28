@@ -27,7 +27,7 @@ Audit流程
 Audit流程对以前的开发流程无任何影响，提交者可以在提交时@Auditors 进行代码检查，系统会通知Auditors对代码评价。
 
 
-
+#### pre-push code review vs post-push codereview
 
 
 
