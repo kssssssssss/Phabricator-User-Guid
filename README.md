@@ -29,6 +29,12 @@ Audit流程对以前的开发流程无任何影响，提交者可以在提交时
 
 #### pre-push code review vs post-push codereview
 
+1. 普遍认为相比pre-push code review，post-push code review几乎没有任何好处！
+2. 但是post-push code review 更加容易实施，过程对现有的组织架构和流程没有完全的颠覆，对团队成员的要求没有那么高；
+3. 相比pre-push code review，post-push code review不需要对修改代码&提交变更这个过程中断，不需要等待评审的时间；
+4. post-push codereview可以作为组织向pre-push code review过程实施的过渡训练；
+
+
 
 
 
